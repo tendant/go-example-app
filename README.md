@@ -8,3 +8,4 @@ Dummy go application for ci testing
 6. Test commit 6
 7. Test commit 7
 8. Test commit 8
+9. Test commit 9
