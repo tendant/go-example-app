@@ -6,3 +6,4 @@ Dummy go application for ci testing
 4. Test commit 4
 5. Test commit 5
 6. Test commit 6
+7. Test commit 7
